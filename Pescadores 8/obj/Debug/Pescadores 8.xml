@@ -1,0 +1,300 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Pescadores8
+</name>
+</assembly>
+<members>
+<member name="P:Pescadores_8.My.Resources.Resources.ResourceManager">
+	<summary>
+  Restituisce l'istanza di ResourceManager nella cache utilizzata da questa classe.
+</summary>
+</member><member name="P:Pescadores_8.My.Resources.Resources.Culture">
+	<summary>
+  Esegue l'override della proprietà CurrentUICulture del thread corrente per tutte le
+  ricerche di risorse eseguite utilizzando questa classe di risorse fortemente tipizzata.
+</summary>
+</member><member name="T:Pescadores_8.My.Resources.Resources">
+	<summary>
+  Classe di risorse fortemente tipizzata per la ricerca di stringhe localizzate e così via.
+</summary>
+</member><member name="T:Pescadores_8.TabelleDataSet.Registro_CanneDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Pescadores_8.TabelleDataSet.Registro_CattureDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Pescadores_8.TabelleDataSet.Registro_Condizioni_AcquaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Pescadores_8.TabelleDataSet.Registro_condizioni_FondaleDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Pescadores_8.TabelleDataSet.Registro_Durata_SessioniDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Pescadores_8.TabelleDataSet.Registro_EscheDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Pescadores_8.TabelleDataSet.Registro_FinaliDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Pescadores_8.TabelleDataSet.Registro_Luoghi_di_pescaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Pescadores_8.TabelleDataSet.Registro_MeteoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Pescadores_8.TabelleDataSet.Registro_Metodi_PresentazioneDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Pescadores_8.TabelleDataSet.Registro_PescatoriDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Pescadores_8.TabelleDataSet.Registro_PosizioniDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Pescadores_8.TabelleDataSet.Registro_SpecieDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Pescadores_8.TabelleDataSet.Registro_SpotsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Pescadores_8.TabelleDataSet.Registro_Tipi_di_luogoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Pescadores_8.TabelleDataSet.Registro_CanneRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Pescadores_8.TabelleDataSet.Registro_CattureRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Pescadores_8.TabelleDataSet.Registro_Condizioni_AcquaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Pescadores_8.TabelleDataSet.Registro_condizioni_FondaleRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Pescadores_8.TabelleDataSet.Registro_Durata_SessioniRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Pescadores_8.TabelleDataSet.Registro_EscheRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Pescadores_8.TabelleDataSet.Registro_FinaliRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Pescadores_8.TabelleDataSet.Registro_Luoghi_di_pescaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Pescadores_8.TabelleDataSet.Registro_MeteoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Pescadores_8.TabelleDataSet.Registro_Metodi_PresentazioneRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Pescadores_8.TabelleDataSet.Registro_PescatoriRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Pescadores_8.TabelleDataSet.Registro_PosizioniRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Pescadores_8.TabelleDataSet.Registro_SpecieRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Pescadores_8.TabelleDataSet.Registro_SpotsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Pescadores_8.TabelleDataSet.Registro_Tipi_di_luogoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Pescadores_8.TabelleDataSet.Registro_CanneRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Pescadores_8.TabelleDataSet.Registro_CattureRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Pescadores_8.TabelleDataSet.Registro_Condizioni_AcquaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Pescadores_8.TabelleDataSet.Registro_condizioni_FondaleRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Pescadores_8.TabelleDataSet.Registro_Durata_SessioniRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Pescadores_8.TabelleDataSet.Registro_EscheRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Pescadores_8.TabelleDataSet.Registro_FinaliRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Pescadores_8.TabelleDataSet.Registro_Luoghi_di_pescaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Pescadores_8.TabelleDataSet.Registro_MeteoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Pescadores_8.TabelleDataSet.Registro_Metodi_PresentazioneRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Pescadores_8.TabelleDataSet.Registro_PescatoriRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Pescadores_8.TabelleDataSet.Registro_PosizioniRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Pescadores_8.TabelleDataSet.Registro_SpecieRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Pescadores_8.TabelleDataSet.Registro_SpotsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Pescadores_8.TabelleDataSet.Registro_Tipi_di_luogoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Pescadores_8.TabelleDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Pescadores_8.TabelleDataSetTableAdapters.Registro_CanneTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Pescadores_8.TabelleDataSetTableAdapters.Registro_CattureTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Pescadores_8.TabelleDataSetTableAdapters.Registro_Condizioni_AcquaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Pescadores_8.TabelleDataSetTableAdapters.Registro_condizioni_FondaleTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Pescadores_8.TabelleDataSetTableAdapters.Registro_Durata_SessioniTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Pescadores_8.TabelleDataSetTableAdapters.Registro_EscheTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Pescadores_8.TabelleDataSetTableAdapters.Registro_FinaliTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Pescadores_8.TabelleDataSetTableAdapters.Registro_Luoghi_di_pescaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Pescadores_8.TabelleDataSetTableAdapters.Registro_MeteoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Pescadores_8.TabelleDataSetTableAdapters.Registro_Metodi_PresentazioneTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Pescadores_8.TabelleDataSetTableAdapters.Registro_PescatoriTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Pescadores_8.TabelleDataSetTableAdapters.Registro_PosizioniTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Pescadores_8.TabelleDataSetTableAdapters.Registro_SpecieTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Pescadores_8.TabelleDataSetTableAdapters.Registro_SpotsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Pescadores_8.TabelleDataSetTableAdapters.Registro_Tipi_di_luogoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:Pescadores_8.TabelleDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Pescadores_8.TabelleDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:Pescadores_8.TabelleDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Pescadores_8.TabelleDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:Pescadores_8.TabelleDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Pescadores_8.TabelleDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:Pescadores_8.TabelleDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:Pescadores_8.TabelleDataSetTableAdapters.TableAdapterManager.UpdateAll(Pescadores_8.TabelleDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:Pescadores_8.TabelleDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:Pescadores_8.TabelleDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:Pescadores_8.TabelleDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+</members>
+</doc>

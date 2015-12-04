@@ -1,0 +1,21 @@
+C:\Documents and Settings\Daniele\Documenti\Visual Studio 2008\Projects\Pescadores 8\Pescadores 8\obj\Debug\Pescadores 8.vbproj.ResolveComReference.cache
+C:\Documents and Settings\Daniele\Documenti\Visual Studio 2008\Projects\Pescadores 8\Pescadores 8\bin\Debug\Pescadores 8.exe
+C:\Documents and Settings\Daniele\Documenti\Visual Studio 2008\Projects\Pescadores 8\Pescadores 8\bin\Debug\Pescadores 8.pdb
+C:\Documents and Settings\Daniele\Documenti\Visual Studio 2008\Projects\Pescadores 8\Pescadores 8\bin\Debug\Pescadores 8.xml
+C:\Documents and Settings\Daniele\Documenti\Visual Studio 2008\Projects\Pescadores 8\Pescadores 8\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Daniele\Documenti\Visual Studio 2008\Projects\Pescadores 8\Pescadores 8\obj\Debug\Pescadores_8.Pescadores.resources
+C:\Documents and Settings\Daniele\Documenti\Visual Studio 2008\Projects\Pescadores 8\Pescadores 8\obj\Debug\Pescadores_8.Resources.resources
+C:\Documents and Settings\Daniele\Documenti\Visual Studio 2008\Projects\Pescadores 8\Pescadores 8\obj\Debug\Pescadores 8.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Daniele\Documenti\Visual Studio 2008\Projects\Pescadores 8\Pescadores 8\obj\Debug\Pescadores 8.exe
+C:\Documents and Settings\Daniele\Documenti\Visual Studio 2008\Projects\Pescadores 8\Pescadores 8\obj\Debug\Pescadores 8.xml
+C:\Documents and Settings\Daniele\Documenti\Visual Studio 2008\Projects\Pescadores 8\Pescadores 8\obj\Debug\Pescadores 8.pdb
+C:\Documents and Settings\Daniele\Documenti\Visual Studio 2008\Projects\Pescadores 8\Pescadores 8\bin\Debug\ID.pcf
+C:\Documents and Settings\Daniele\Documenti\Visual Studio 2008\Projects\Pescadores 8\Pescadores 8\bin\Debug\Registri.pcf
+C:\Documents and Settings\Daniele\Documenti\Visual Studio 2008\Projects\Pescadores 8\Pescadores 8\bin\Debug\Qh.pcf
+C:\Documents and Settings\Daniele\Documenti\Visual Studio 2008\Projects\Pescadores 8\Pescadores 8\bin\Debug\Pescadores 8.exe.config
+C:\Documents and Settings\Daniele\Documenti\Visual Studio 2008\Projects\Pescadores 8\Pescadores 8\bin\Debug\Tabelle.accdb
+C:\Documents and Settings\Daniele\Documenti\Visual Studio 2008\Projects\Pescadores 8\Pescadores 8\bin\Debug\Salva.pcf
+C:\Documents and Settings\Daniele\Documenti\Visual Studio 2008\Projects\Pescadores 8\Pescadores 8\bin\Debug\Pescadores 8.exe.manifest
+C:\Documents and Settings\Daniele\Documenti\Visual Studio 2008\Projects\Pescadores 8\Pescadores 8\bin\Debug\Pescadores 8.application
+C:\Documents and Settings\Daniele\Documenti\Visual Studio 2008\Projects\Pescadores 8\Pescadores 8\obj\Debug\Pescadores 8.exe.manifest
+C:\Documents and Settings\Daniele\Documenti\Visual Studio 2008\Projects\Pescadores 8\Pescadores 8\obj\Debug\Pescadores 8.application

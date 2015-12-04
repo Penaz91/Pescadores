@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1">
+  <asmv1:assemblyIdentity name="Pescadores 8.exe" version="8.0.0.0" publicKeyToken="c705c0261503d5b0" language="neutral" processorArchitecture="msil" type="win32" />
+  <description asmv2:iconFile="Icona.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Pescadores 8" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="Pescadores 8.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          Opzioni manifesto Controllo account utente
+          Se si desidera modificare il livello di Controllo account utente di Windows, sostituire il nodo
+          requestedExecutionLevel con uno dei seguenti.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         Se si desidera utilizzare Virtualizzazione file system e registro di sistema per la compatibilità
+          con le versioni precedenti, eliminare il nodo requestedExecutionLevel.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="2.0.50727.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="ADODB" version="7.0.3300.0" publicKeyToken="B03F5F7F11D50A3A" language="neutral" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="dao" version="10.0.4504.0" publicKeyToken="31BF3856AD364E35" language="neutral" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Office.Interop.Access" version="12.0.0.0" publicKeyToken="71E9BCE111E9429C" language="neutral" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Vbe.Interop" version="12.0.0.0" publicKeyToken="71E9BCE111E9429C" language="neutral" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.VisualBasic.PowerPacks" version="9.0.0.0" publicKeyToken="B03F5F7F11D50A3A" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="office" version="12.0.0.0" publicKeyToken="71E9BCE111E9429C" language="neutral" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="System.Core" version="3.5.0.0" publicKeyToken="b77a5c561934e089" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="WindowsBase" version="3.0.0.0" publicKeyToken="31bf3856ad364e35" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Pescadores 8.exe" size="859136">
+      <assemblyIdentity name="Pescadores 8" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>lDeL/2AVs+6MUyD4wV7yVT8jhZk=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="Icona.ico" size="4286">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>oZ9YeVMghcZmJJ8rZZ3RROTBeqY=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Pescadores 8.exe.config" size="2003">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>mOF0vrQdvwYVNO5+KGVpF3yt6Yo=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Tabelle.accdb" size="643072">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>Lk+t3h+89MbyCPJWgIk4Zu21CB4=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=GELSOMIN-PENAZZ\Daniele" issuerKeyHash="44df5589f2fc0d323252fc63d870f4d642e2e178" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>oHW5T2dLpWOgSlIWCuL0bkPZmlw=</DigestValue></Reference></SignedInfo><SignatureValue>UuY8SnmMZddfqbSUAulMIJKSY8omiNhNFsTjPCVcR7MLgj2JKcfxYVMSplGMI+Xb3L7TLnPh2K7bAf78kpJPUpLXcX1c6OOmQLCdJ4Cj8rWj+C9v0xZSRlM21+meSH4S2xny+NLmhvVgUfmDXupZikaSXU5ylW/377D2apntHrA=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>44GU37XT1in++EjdfNamHugr+VEyGJA4knJyQyeo/m/ozgmp/Jd2H98gVAWszHFaVHpclelvzzJaLEwk78lCrRuApLkMRtZXw5pNjfBtBkGDg3GhR9PJmFZD6arncVKe1/phHb97iL7L718jB85dKS8rjpYGMP/kZ50esLKmaec=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="5c9ad9436ef4e20a16524aa063a54b674fb975a0" Description="" Url=""><as:assemblyIdentity name="Pescadores 8.exe" version="8.0.0.0" publicKeyToken="c705c0261503d5b0" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=GELSOMIN-PENAZZ\Daniele</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>F5JrMJM2rYiHfrRZCCNJ7x4K7j8=</DigestValue></Reference></SignedInfo><SignatureValue>LY4TVhIzwGpGMJzF5fuHcd7JsyQZmahmKP5BY584LW8dLH1NAQXwLmB1aTpuW7oBJGt269pMd7QUosmBuDxOigRpe32KdbrQiBJ0ioqafZBAiKv3aAZsoloH7CItlNX5uslhYZQVAET909iJ1XcKv+10v96BV6p3e4vdf8472J8=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>44GU37XT1in++EjdfNamHugr+VEyGJA4knJyQyeo/m/ozgmp/Jd2H98gVAWszHFaVHpclelvzzJaLEwk78lCrRuApLkMRtZXw5pNjfBtBkGDg3GhR9PJmFZD6arncVKe1/phHb97iL7L718jB85dKS8rjpYGMP/kZ50esLKmaec=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB7TCCAVqgAwIBAgIQlMBWL5r1KKRA6zVxU3SAIjAJBgUrDgMCHQUAMDkxNzA1BgNVBAMeLgBHAEUATABTAE8ATQBJAE4ALQBQAEUATgBBAFoAWgBcAEQAYQBuAGkAZQBsAGUwHhcNMDgxMjEwMTQ0NTI2WhcNMDkxMjEwMjA0NTI2WjA5MTcwNQYDVQQDHi4ARwBFAEwAUwBPAE0ASQBOAC0AUABFAE4AQQBaAFoAXABEAGEAbgBpAGUAbABlMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDjgZTftdPWKf74SN181qYe6Cv5UTIYkDiScnJDJ6j+b+jOCan8l3Yf3yBUBazMcVpUelyV6W/PMlosTCTvyUKtG4CkuQxG1lfDmk2N8G0GQYODcaFH08mYVkPpqudxUp7X+mEdv3uIvsvvXyMHzl0pLyuOlgYw/+RnnR6wsqZp5wIDAQABMAkGBSsOAwIdBQADgYEA0Ot4evbAjUCQcmjtte7+JqNg4pUwNmQRnvDajyYhH5W87+f7NBpbR2MQ5rh1oOARakIvp3XTdnCT1+em0QPDBbndhP2ZbAFZGLiZIjYLJs/rXrUEzvqYYePs5G5J28oTdxR2yInOP3nFj6IjoUWs6bv7WM15GnDebNpWkchZ6lo=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
